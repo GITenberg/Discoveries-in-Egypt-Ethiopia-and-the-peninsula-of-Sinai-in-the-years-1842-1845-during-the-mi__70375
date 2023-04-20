@@ -1,0 +1,49 @@
+_repo: Discoveries-in-Egypt-Ethiopia-and-the-peninsula-of-Sinai-in-the-years-1842-1845-during-the-mi__70375
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lepsius, Richard
+    aliases:
+    - Lepsius, R. (Richard)
+    - Lepsius, C. Richard (Carl Richard)
+    - Lepsius, C. R. (Carl Richard)
+    - Lepsius, Carl Richard
+    - Lepsius, Karl Richard
+    - Lepsius, Karl Georg Richard
+    birthdate: 1810
+    deathdate: 1884
+    gutenberg_agent_id: '55735'
+    url: http://www.gutenberg.org/2009/agents/55735
+    wikipedia: https://en.wikipedia.org/wiki/Karl_Richard_Lepsius
+  editor:
+    agent_name: Mackenzie, Kenneth R. H. (Kenneth Robert Henderson)
+    alias: Mackenzie, Kenneth Robert Henderson
+    birthdate: 1833
+    deathdate: 1886
+    gutenberg_agent_id: '48161'
+    url: http://www.gutenberg.org/2009/agents/48161
+    wikipedia: https://en.wikipedia.org/wiki/Kenneth_R._H._Mackenzie
+description: ''
+gutenberg_issued: '2023-03-25'
+identifiers:
+  gutenberg: '70375'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=uc1.aa0016122509&view=1up&seq=6&skin=2021
+pgterms:marc905: 20220402040934lepsius
+pgterms:marc906: '1853'
+pgterms:marc907: GB
+production_note: Chuck Greif and the Online Distributed Proofreading Team at http://www.pgdp.net
+  (This file was produced from images available at The Internet Archive)
+publication_note: '  $aUnited Kingdom :$bRichard Bentley, New Burlington Street, $c1853.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Egypt -- Antiquities'
+- !lcsh 'Sinai (Egypt) -- Antiquities'
+- !lcsh 'Ethiopia -- Antiquities'
+- !lcc 'DT'
+- GITenberg
+title: Discoveries in Egypt, Ethiopia and the peninsula of Sinai, in the years 1842-1845,
+  during the mission sent out by his majesty, Frederick William IV of Prussia.
+url: http://www.gutenberg.org/ebooks/70375
